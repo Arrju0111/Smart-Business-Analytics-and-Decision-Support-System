@@ -6,7 +6,7 @@ Micro-enterprises in the food and beverage industry frequently rely on intuition
 This project delivers a highly accessible, mobile-optimized Business Intelligence (BI) dashboard tailored specifically for "Bommi Samayal," a local food stall. Built upon the Technology Acceptance Model (TAM) for maximum user-friendliness and Data-Driven Decision Making (DDDM) theory, this decision support system empowers micro-vendors to transition from guesswork to evidence-based inventory forecasting and staff scheduling.
 
 ## Dashboard Preview
-![Bommi Samayal Dashboard](Images/bommi-dashboard-overview.png)
+![Bommi Samayal Dashboard](<Images/Screenshot 2026-08-04 095735.png>)
 
 ## Data Architecture & Methodology
 The backend architecture is structured around a traditional Business Intelligence Extract, Transform, Load (ETL) pipeline, designed to process batch data efficiently.
@@ -38,4 +38,4 @@ The deployment of this dashboard revealed several actionable insights that direc
 To further evolve this proof-of-concept into a fully automated enterprise solution, future development phases will include:
 * **Custom Mobile POS Application:** Digitizing the manual logbook into a tablet-based checkout app.
 * **Real-Time Cloud Integration:** Connecting the POS app to a live cloud database (e.g., Firebase or AWS) to enable real-time dashboard streaming via API.
-* **Cost Analytics:** Expanding the data model to include ingredient cost variables, upgrading the dashboard from tracking Gross Revenue to calculating Net Profit margins[cite: 4].
+* **Cost Analytics:** Expanding the data model to include ingredient cost variables, upgrading the dashboard from tracking Gross Revenue to calculating Net Profit margins.
